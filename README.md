@@ -1,4 +1,4 @@
-#  ArtGallery419
+#  ArtGallery
 
 Veritabanı Yönetimi dersi için geliştirilen "Online Sanat Galerisi ve Atölye Rezervasyon Sistemi" projesi. 
 
