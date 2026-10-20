@@ -11,9 +11,9 @@ Projeyi yerel bilgisayarınızda ayağa kaldırmak için aşağıdaki adımları
 ### Adım 1: Projeyi Klonlama
 
 ```bash
-git clone https://github.com/seriftales/ArtGallery419.git
+git clone https://github.com/seriftales/art_gallery.git
 
-cd ArtGallery419
+cd art_gallery
 ```
 
 ### Adım 2 : Bağımlılıklar
@@ -121,7 +121,7 @@ VITE_API_URL=http://localhost:5005/api
 ##  Proje Mimarisi 
 
 ```text
-ArtGallery419/
+art_gallery/
 ├── frontend/                # Müşterinin göreceği yüz (React.js + Vite)
 │   ├── src/
 │   │   ├── components/      # UI Parçaları (Navbar, Footer vb.)
